@@ -1,2 +1,2 @@
 # Agile
-For Agile Development and Scrum certification
+for Agile Lab
